@@ -1,0 +1,6 @@
+,num_cities,time,tour,distance
+0,6,0.005603790283203125,"('Barcelona', 'Belgrade', 'Bucharest', 'Budapest', 'Berlin', 'Brussels')",5018.8099999999995
+0,7,0.030761003494262695,"('Barcelona', 'Belgrade', 'Bucharest', 'Budapest', 'Berlin', 'Copenhagen', 'Brussels')",5487.89
+0,8,0.24197983741760254,"('Barcelona', 'Belgrade', 'Bucharest', 'Budapest', 'Berlin', 'Copenhagen', 'Brussels', 'Dublin')",6667.49
+0,9,2.281327962875366,"('Barcelona', 'Belgrade', 'Bucharest', 'Budapest', 'Berlin', 'Copenhagen', 'Hamburg', 'Brussels', 'Dublin')",6678.55
+0,10,24.742269039154053,"('Barcelona', 'Belgrade', 'Istanbul', 'Bucharest', 'Budapest', 'Berlin', 'Copenhagen', 'Hamburg', 'Brussels', 'Dublin')",7486.3099999999995
